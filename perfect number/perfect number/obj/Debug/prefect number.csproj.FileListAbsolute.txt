@@ -1,0 +1,8 @@
+C:\Users\zakariamohammed\Pictures\New folder\prefect number\prefect number\bin\Debug\prefect number.exe.config
+C:\Users\zakariamohammed\Pictures\New folder\prefect number\prefect number\bin\Debug\prefect number.exe
+C:\Users\zakariamohammed\Pictures\New folder\prefect number\prefect number\bin\Debug\prefect number.pdb
+C:\Users\zakariamohammed\Pictures\New folder\prefect number\prefect number\obj\Debug\prefect number.csproj.AssemblyReference.cache
+C:\Users\zakariamohammed\Pictures\New folder\prefect number\prefect number\obj\Debug\prefect number.csproj.SuggestedBindingRedirects.cache
+C:\Users\zakariamohammed\Pictures\New folder\prefect number\prefect number\obj\Debug\prefect number.csproj.CoreCompileInputs.cache
+C:\Users\zakariamohammed\Pictures\New folder\prefect number\prefect number\obj\Debug\prefect number.exe
+C:\Users\zakariamohammed\Pictures\New folder\prefect number\prefect number\obj\Debug\prefect number.pdb
